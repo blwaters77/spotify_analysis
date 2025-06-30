@@ -1,0 +1,13 @@
+'# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code workspace files
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+'
